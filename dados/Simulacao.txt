@@ -1,0 +1,51 @@
+Teste na máquina
+1-100
+
+Tempo para inserçao: 0 Segundos
+Tempo para pesquisa: 1 Segundos
+
+1-500
+
+Tempo para inserçao: 4 Segundos
+Tempo para pesquisa: 6 Segundos
+
+1-1000
+
+Tempo para inserçao: 13 Segundos
+Tempo para pesquisa: 16 Segundos
+
+1-5000
+
+Tempo para inserçao: 451 Segundos
+Tempo para pesquisa: 454 Segundos]
+
+1-10000
+
+Tempo para inserçao: 1573 Segundos
+Tempo para pesquisa: 1793 Segundos
+
+Teste no pen drive
+1-100
+
+Tempo para inserçao: 7 Segundos
+Tempo para pesquisa: 1 Segundos
+
+1-500
+
+Tempo para inserçao: 39 Segundos
+Tempo para pesquisa: 8 Segundos
+
+1-1000
+
+Tempo para inserçao: 87 Segundos
+Tempo para pesquisa: 240 Segundos
+
+1-5000
+
+Tempo para inserçao: 794 Segundos
+Tempo para pesquisa: 453 Segundos
+
+1-10000
+
+Tempo para inserçao: 2272 Segundos
+Tempo para pesquisa: 1252 Segundos
